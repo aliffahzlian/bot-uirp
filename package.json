@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "node .": "node run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliffahzlian/bot-uirp"
   },
   "license": "ISC",
   "dependencies": {
